@@ -1,0 +1,80 @@
+@mixin desktop {
+  @media screen and (max-width: 1200px){
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media screen and (max-width: 890px){
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media screen and (max-width: 500px){
+    @content;
+  }
+}
+
+
+body {
+    width: 85%;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    @include mobile {
+      width: 95%;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+p {
+    margin: 0;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 100vh;
+  background: #edf2f7;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #cbd5e0;
+  border-radius: 100vh;
+  border: 3px solid #edf2f7;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #a0aec0;
+}
+* {
+  -webkit-touch-callout:none;                /* prevent callout to copy image, etc when tap to hold */
+  -webkit-text-size-adjust:none;             /* prevent webkit from resizing text to fit */
+  -webkit-tap-highlight-color:rgba(0,0,0,0); /* prevent tap highlight color / shadow */
+  -webkit-user-select:none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
