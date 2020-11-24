@@ -16,8 +16,6 @@
   </h3>
 </div>
 
-## How To Use
-
 
 ## Project setup
 ```
