@@ -31,10 +31,6 @@ export default {
       })
     });
 
-    function addMessage() {
-
-    }
-
     return {
       state, addMessage
     };
