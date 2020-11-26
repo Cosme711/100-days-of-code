@@ -1,4 +1,4 @@
-# chat-app-test
+# Chat App
 
 ## Project setup
 ```
