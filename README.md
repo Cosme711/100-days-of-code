@@ -19,3 +19,15 @@
 
 **Link to work:** [Chat App](https://cosme-gressier-chat-app.netlify.app/)
 
+
+### Day 2: November 26, 2020
+
+**Today's Progress:** Improve Chat application. I’ve made progress in Firebase and Vuex.
+
+**Thoughts:** Vuex does not work perfectly with CompositionApi. I can improve the design. 
+
+**Link to work:** [Chat App](https://cosme-gressier-chat-app.netlify.app/)
+
+
+
+
