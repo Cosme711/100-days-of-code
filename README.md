@@ -11,4 +11,11 @@
 **Link to work:** [AirBnb Clone](https://cosme-gressier-windbnb.netlify.app/)
 
 
+### Day 1: November 25, 2020
+
+**Today's Progress:** I started to learn Firebase by creating a Chat application. I improve my skills with Compositions API in Vue3. 
+
+**Thoughts:** Firebase is very powerful and I want to know more about it. Maybe i can upgrade this chat for a little forum. 
+
+**Link to work:** [Chat App](https://cosme-gressier-chat-app.netlify.app/)
 
