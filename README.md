@@ -29,5 +29,13 @@
 **Link to work:** [Chat App](https://cosme-gressier-chat-app.netlify.app/)
 
 
+### Day 3: November 27, 2020
+
+**Today's Progress:** Created a Todo app in Vuetify. Improve the Chat app. 
+
+**Thoughts:** Vuetify does not work with Vue3.
+
+**Link to work:** [TodoApp](https://cosme-gressier-todoapp-vuetify.netlify.app/)
+
 
 
