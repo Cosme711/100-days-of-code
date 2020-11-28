@@ -38,4 +38,11 @@
 **Link to work:** [TodoApp](https://cosme-gressier-todoapp-vuetify.netlify.app/)
 
 
+### Day 4: November 28, 2020
+
+**Today's Progress:** Add Vuexfire & firestore to the Chat app.
+
+**Thoughts:** Vuexfire doesn't work with Vue3. Vuex is awesome. 
+
+**Link to work:** [Chat App]()
 
