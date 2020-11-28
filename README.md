@@ -40,9 +40,9 @@
 
 ### Day 4: November 28, 2020
 
-**Today's Progress:** Add Vuexfire & firestore to the Chat app.
+**Today's Progress:** Add Vuexfire & firestore on the Chat app.
 
-**Thoughts:** Vuexfire doesn't work with Vue3. Vuex is awesome. 
+**Thoughts:** Vuex is awesome. Vuexfire doesn't work with Vue3.
 
 **Link to work:** [Chat App]()
 
