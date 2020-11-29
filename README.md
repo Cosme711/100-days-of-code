@@ -46,3 +46,11 @@
 
 **Link to work:** [Chat App](https://cosme-gressier-todoapp-vuetify.netlify.app/)
 
+
+### Day 5: November 29, 2020
+
+**Today's Progress:** I progressed on Vuetify. I redesigned the Chat App. 
+
+**Thoughts:** Vuetify is very powerful. Tomorrow i continue to learn him.
+
+**Link to work:** [Chat App](https://cosme-gressier-todoapp-vuetify.netlify.app/)
