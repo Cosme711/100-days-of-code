@@ -44,5 +44,5 @@
 
 **Thoughts:** Vuex is awesome. Vuexfire doesn't work with Vue3.
 
-**Link to work:** [Chat App]()
+**Link to work:** [Chat App](https://cosme-gressier-todoapp-vuetify.netlify.app/)
 
