@@ -62,3 +62,12 @@
 **Thoughts:** I’ll soon be able to start learning Nuxt.
 
 **Link to work:** [Chat App](https://cosme-gressier-todoapp-vuetify.netlify.app/)
+
+
+### Day 7: December 1, 2020
+
+**Today's Progress:** I make a Random Quote Generator. A challenge from DevChallenges.io.
+I progressed on axios, get data from an API etc... I also progressed on Vuetify.
+**Thoughts:** I want learn TailwindCSS.
+
+**Link to work:** [Random Quote Generator](https://challenge-random-quote-generator.netlify.app/)
