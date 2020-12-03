@@ -82,3 +82,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** I want learn TypeScript. I want to improve my skills on Sass. 
 
 **Link to work:** [Random Quote Generator](https://challenge-random-quote-generator.netlify.app/)
+
+
+### Day 9: December 3, 2020
+
+**Today's Progress:** I optimized yesterday’s code and started creating a QuizApp 
+
+**Thoughts:** Optimize again & use the View3 features more. 
+
+**Link to work:** [Quiz App](https://challenge-country-quiz.netlify.app/)

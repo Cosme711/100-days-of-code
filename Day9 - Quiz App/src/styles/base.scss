@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    list-style: none;
+}
+
+#app {
+    display: grid;
+    grid-template-rows: 1fr 40px;
+    height: 100vh;
+    place-content: center;
+    background-image: url('./assets/background.png');
+}
