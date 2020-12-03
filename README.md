@@ -79,6 +79,6 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Today's Progress:** Ending of the Random Quote Generator Challenge. 
 
-**Thoughts:** you can see my DevChallenges portfolio here [Cosme711](https://portfolio.devchallenges.io/Cosme711)
+**Thoughts:** I want learn TypeScript. I want to improve my skills on Sass. 
 
 **Link to work:** [Random Quote Generator](https://challenge-random-quote-generator.netlify.app/)
