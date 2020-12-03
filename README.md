@@ -58,7 +58,8 @@
 
 ### Day 6: November 30, 2020
 
-**Today's Progress:** Vuetify! I read a lot of the documentation and i tested different component. 
+**Today's Progress:** Vuetify! I read a lot of the documentation and i tested different component.
+
 **Thoughts:** I’ll soon be able to start learning Nuxt.
 
 **Link to work:** [Chat App](https://cosme-gressier-todoapp-vuetify.netlify.app/)
