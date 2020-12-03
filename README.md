@@ -69,6 +69,7 @@
 
 **Today's Progress:** I make a Random Quote Generator. A challenge from DevChallenges.io.
 I progressed on axios, get data from an API etc... I also progressed on Vuetify.
+
 **Thoughts:** I want learn TailwindCSS.
 
 **Link to work:** [Random Quote Generator](https://challenge-random-quote-generator.netlify.app/)
