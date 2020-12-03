@@ -71,3 +71,11 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** I want learn TailwindCSS.
 
 **Link to work:** [Random Quote Generator](https://challenge-random-quote-generator.netlify.app/)
+
+
+### Day 8: December 2, 2020
+
+**Today's Progress:** Ending of the Random Quote Generator Challenge. 
+**Thoughts:** you can see my DevChallenges portfolio here [Cosme711](https://portfolio.devchallenges.io/Cosme711)
+
+**Link to work:** [Random Quote Generator](https://challenge-random-quote-generator.netlify.app/)

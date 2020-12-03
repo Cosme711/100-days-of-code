@@ -1,0 +1,22 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
+@mixin mobile {
+    @media screen and (max-width: 750px){
+      @content;
+    }
+  }
+
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+p {
+    margin: 0;
+}
