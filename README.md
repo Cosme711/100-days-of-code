@@ -91,3 +91,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** Optimize again & use the View3 features more. 
 
 **Link to work:** [Quiz App](https://challenge-country-quiz.netlify.app/)
+
+
+### Day 10: December 4, 2020
+
+**Today's Progress:** I started to learn TailwindCSS. I improved the design of my Quiz App and made my code more dynamic
+
+**Thoughts:** TailwindCSS is really flexible and intuitive. 
+
+**Link to work:** [Quiz App](https://challenge-country-quiz.netlify.app/)
