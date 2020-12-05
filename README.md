@@ -106,6 +106,6 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Today's Progress:** In the Random Quote Generator app i fixed a bug redirection on Netlify with _redirect file. On quiz app, i have initialized the package register-service-worker and i have upgrade vue2 to vue3 for use Composition Api.
 
-**Thoughts:** The package register-service-work is required in all my applications. I want to improve the responsive of Quiz App with TailwindCss
+**Thoughts:** The package register-service-work is required in all my applications. I want to improve the responsive design of Quiz App with TailwindCss
 
 **Link to work:** [Quiz App](https://challenge-country-quiz.netlify.app/)
