@@ -117,4 +117,4 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Thoughts:** It is necessary for a Front developer to train in UX design.
 
-**Link to work:** [Quiz App](https://challenge-country-quiz.netlify.app/)
+**Link to work:** [Awwwards Course](https://www.awwwards.com/academy/course/an-introduction-to-ux-design)
