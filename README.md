@@ -109,3 +109,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** The package register-service-work is required in all my applications. I want to improve the responsive design of Quiz App with TailwindCss
 
 **Link to work:** [Quiz App](https://challenge-country-quiz.netlify.app/)
+
+
+### Day 12: December 6, 2020
+
+**Today's Progress:** I started the course "An introduction to UX design" on awwwards.academy. 
+
+**Thoughts:** It is necessary for a Front developer to train in UX design.
+
+**Link to work:** [Quiz App](https://challenge-country-quiz.netlify.app/)
