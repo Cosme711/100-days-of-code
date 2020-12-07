@@ -118,3 +118,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** It is necessary for a Front developer to train in UX design.
 
 **Link to work:** [Awwwards Course](https://www.awwwards.com/academy/course/an-introduction-to-ux-design)
+
+
+### Day 13: December 7, 2020
+
+**Today's Progress:** I optimized CountryQuizz, i changed the functions in the Vuex store. In short, I cleaned and optimized my code. I also created the redirect page in the vue-router for 404 errors
+
+**Thoughts:** Vuex is not yet fully optimized for Vue3.
+
+**Link to work:** [Quiz App](https://challenge-country-quiz.netlify.app/)
