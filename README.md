@@ -127,3 +127,11 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** Vuex is not yet fully optimized for Vue3.
 
 **Link to work:** [Quiz App](https://challenge-country-quiz.netlify.app/)
+
+
+### Day 14: December 8, 2020
+
+**Today's Progress:**  I revised the basics of Vue3. I tried to reproduce the 10FastFingers game
+
+**Thoughts:** Vue3 is the future ;) 
+
