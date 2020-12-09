@@ -138,7 +138,7 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 ### Day 15: December 9, 2020
 
-**Today's Progress:**  Technology watch in a repository Awesome Vue3. I had fun testing packages and examples, reading articles and watching videos. 
+**Today's Progress:**  Technology watch in a Awesome Vue3 repository. I had fun testing packages and examples, reading articles and watching videos. 
 
 **Thoughts:** Soon, I will create my own package.
 
