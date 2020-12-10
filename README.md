@@ -144,3 +144,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Link to work:** [Awesome Vue3](https://github.com/blacksonic/awesome-vue-3)
 
+
+### Day 16: December 10, 2020
+
+**Today's Progress:**  I createda movie search application. I still improve my skills in Vue3 and CompositionAPI.
+
+**Link to work:** [Movie Search App](https://github.com/blacksonic/movie-search-vue)
+
