@@ -1,0 +1,25 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+// font-family: 'Montserrat', sans-serif; ( font-weight : 500 ) 
+// font-family: 'Padauk', sans-serif; ( font-weight: 400 ou 700)
+// font-family: 'Bigshot One', cursive;
+// font-family: 'Montserrat', sans-serif;
+// font-family: 'Padauk', sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #414656;
+}
+
+/* 
+GREY: #414656
+WHITE: #A6ABBD
+BLUE: #2282EB
+*/
