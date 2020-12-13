@@ -167,6 +167,6 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Thoughts:** Creating beautiful hover animation with Tailwind is complicated.
 
-**Link to work:** [Todo App](https://cosme-gressier-todo-app.netlify.app/)
+**Link to work:** [Card Tailwind Components](https://tailwindcomponents.com/component/article-card-1)
 
 
