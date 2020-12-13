@@ -170,3 +170,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Link to work:** [Card Tailwind Components](https://tailwindcomponents.com/component/article-card-1)
 
 
+### Day 19: December 12, 2020
+
+**Today's Progress:**  I started the Weather App challenge on DevChallenges. I improved my skills on Vue3, vue-router, Tailwind and more generally on how communicate with this API. 
+
+**Thoughts:** Having a clean code is very, very important ;) 
+
+**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
