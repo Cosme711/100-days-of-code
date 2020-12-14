@@ -177,3 +177,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** Having a clean code is very, very important ;) 
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
+
+
+### Day 20: December 14, 2020
+
+**Today's Progress:** Get user location on weather app. 
+
+**Thoughts:** I can probably improve the location search on the weather app
+
+**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
