@@ -186,3 +186,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** I can probably improve the location search on the weather app
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
+
+
+### Day 21: December 15, 2020
+
+**Today's Progress:** Weather app creation in progress. I have improved my skills a lot on Tailwind and Vue3. 
+
+**Thoughts:** Tailwind is awesome ! 
+
+**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
