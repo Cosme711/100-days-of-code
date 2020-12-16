@@ -195,3 +195,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** Tailwind is awesome ! 
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
+
+
+### Day 22: December 16, 2020
+
+**Today's Progress:** I played with components found on the awesome tailwind repo.
+
+**Thoughts:** I need to get started in a big programming project.
+
+**Link to work:** [Awesome Tailwind](https://github.com/aniftyco/awesome-tailwindcss)
