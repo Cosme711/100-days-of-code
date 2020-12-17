@@ -152,7 +152,7 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Link to work:** [Movie Search App](https://github.com/blacksonic/movie-search-vue)
 
 
-### Day 17: December 10, 2020
+### Day 17: December 11, 2020
 
 **Today's Progress:**  I created a simple Todo List to improve my design skills in Tailwindcss. It allowed me to learn animations and media queries in it. 
 
