@@ -161,7 +161,7 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Link to work:** [Todo App](https://cosme-gressier-todo-app.netlify.app/)
 
 
-### Day 18: December 11, 2020
+### Day 18: December 12, 2020
 
 **Today's Progress:**  I created my own card for Tailwind component.
 
