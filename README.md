@@ -212,4 +212,4 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Thoughts:** I should think more about optimization: mobile first!
 
-**Link to work:** [Awesome Tailwind](https://github.com/aniftyco/awesome-tailwindcss)
+**Link to work:** [Global Vue Meetup](https://www.youtube.com/watch?v=lP87sMkSehU&feature=youtu.be&ab_channel=ThisDotMedia)
