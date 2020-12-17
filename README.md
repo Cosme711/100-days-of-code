@@ -170,7 +170,7 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Link to work:** [Card Tailwind Components](https://tailwindcomponents.com/component/article-card-1)
 
 
-### Day 19: December 12, 2020
+### Day 19: December 13, 2020
 
 **Today's Progress:**  I started the Weather App challenge on DevChallenges. I improved my skills on Vue3, vue-router, Tailwind and more generally on how communicate with this API. 
 
