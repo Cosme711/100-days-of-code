@@ -204,3 +204,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** I need to get started in a big programming project.
 
 **Link to work:** [Awesome Tailwind](https://github.com/aniftyco/awesome-tailwindcss)
+
+
+### Day 23: December 17, 2020
+
+**Today's Progress:** Global Vue Meetup on the This Dot Media youtube channel. Really informative, especially on optimizing website performance with Vue. 
+
+**Thoughts:** I should think more about optimization: mobile first!
+
+**Link to work:** [Awesome Tailwind](https://github.com/aniftyco/awesome-tailwindcss)
