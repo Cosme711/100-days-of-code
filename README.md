@@ -213,3 +213,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** I should think more about optimization: mobile first!
 
 **Link to work:** [Global Vue Meetup](https://www.youtube.com/watch?v=lP87sMkSehU&feature=youtu.be&ab_channel=ThisDotMedia)
+
+
+### Day 24: December 18, 2020
+
+**Today's Progress:** Weather app & new features optimization in Vuex. Technology watch on Vuejs features. 
+
+**Thoughts:** I can optimize Chrome DevTools.
+
+**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
