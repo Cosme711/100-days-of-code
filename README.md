@@ -222,3 +222,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** I can optimize Chrome DevTools.
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
+
+
+### Day 25: December 19, 2020
+
+**Today's Progress:** I tried a lot of new css animation with the package npm animate.css. I coded the search functionality on the Weather app
+
+**Thoughts:** Deep work is key of website success
+
+**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)

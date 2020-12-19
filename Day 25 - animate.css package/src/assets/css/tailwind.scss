@@ -1,0 +1,28 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+// font-family: 'Montserrat', sans-serif;
+// font-family: 'Raleway', sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #100E1D;
+}
+
+.transition-all-1-ease-in {
+    transition: all .1s ease-in;
+}
+
+.transition-all-25-ease-in {
+    transition: all .25s ease-in;
+}
+.transition-background-25-ease-in {
+    transition: background-color .25s ease-in;
+}
