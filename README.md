@@ -231,3 +231,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** Deep work is key of website success
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
+
+
+### Day 26: December 20, 2020
+
+**Today's Progress:** I created the responsive of the weather App. 
+
+**Link to work:** [Responsive Design Weather App](https://twitter.com/GressierCosme1/status/1340782029030510594)
