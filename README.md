@@ -238,3 +238,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I created the responsive of the weather App. 
 
 **Link to work:** [Responsive Design Weather App](https://twitter.com/GressierCosme1/status/1340782029030510594)
+
+
+### Day 27: December 21, 2020
+
+**Today's Progress:** I played with css animations. Discovered the animate.css package.
+
+**Link to work:** [Button Animation](https://twitter.com/GressierCosme1/status/1340782029030510594)
