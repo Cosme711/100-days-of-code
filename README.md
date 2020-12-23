@@ -254,3 +254,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** Improve Design UI/UX.
 
 **Link to work:** [Code Refactoring](https://twitter.com/GressierCosme1/status/1341534532391104514)
+
+
+### Day 29: December 23, 2020
+
+**Today's Progress:** I submitted a solution to a challenge on DevChallenges : My Gallery
+
+**Thoughts:** I can upgrade this code to scss
+
+**Link to work:** [My Gallery](https://github.com/Cosme711/Challenge/tree/main/DevChallenges/Challenge-My-gallery)
