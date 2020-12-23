@@ -245,3 +245,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I played with css animations. Discovered the animate.css package.
 
 **Link to work:** [Button Animation](https://twitter.com/GressierCosme1/status/1340782029030510594)
+
+
+### Day 28: December 22, 2020
+
+**Today's Progress:** Code refactoring, i organized the code of my Weather App.
+
+**Thoughts:** Improve Design UI/UX.
+
+**Link to work:** [Code Refactoring](https://twitter.com/GressierCosme1/status/1341534532391104514)
