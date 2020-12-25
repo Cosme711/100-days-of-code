@@ -263,3 +263,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** I can upgrade this code to scss
 
 **Link to work:** [My Gallery](https://github.com/Cosme711/Challenge/tree/main/DevChallenges/Challenge-My-gallery)
+
+
+### Day 30: December 24, 2020
+
+**Today's Progress:** Play with tsParticles package.
+
+**Thoughts:** Vue3 compatible, this is just awesome. 
+
+**Link to work:** [tsParticles](https://twitter.com/GressierCosme1/status/1342112979576369152)
