@@ -272,3 +272,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** Vue3 compatible, this is just awesome. 
 
 **Link to work:** [tsParticles](https://twitter.com/GressierCosme1/status/1342112979576369152)
+
+
+### Day 31: December 25, 2020
+
+**Today's Progress:** Login Page. Blur effect on the background, Password length. 
+
+**Link to work:** [Login Page](https://twitter.com/GressierCosme1/status/1342565635151163392)

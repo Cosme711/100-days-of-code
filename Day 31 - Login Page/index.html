@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.2/tailwind.min.css" integrity="sha512-+WF6UMXHki/uCy0vATJzyA9EmAcohIQuwpNz0qEO+5UeE5ibPejMRdFuARSrl1trs3skqie0rY/gNiolfaef5w==" crossorigin="anonymous" />
+        <title>Password Background</title>
+    </head>
+    <body>
+        <div class="background" id="background"></div>
+
+        <div class="bg-white rounded p-10 text-center shadow-md w-96">
+            <h1 class="text-3xl">Login</h1>
+
+            <div class="my-4 text-left">
+                <label for="email" class="text-gray-900">Username:</label>
+                <input type="text" class="border block w-full p-2 mt-2 rounded" id="email" placeholder="Enter Username">
+            </div>
+            
+            <div class="my-4 text-left">
+                <label for="email" class="text-gray-900">Password:</label>
+                <input type="password" class="border block w-full p-2 mt-2 rounded outline-none" id="password" placeholder="Enter Password">
+                <div class="mt-4 shadow w-full bg-grey-light">
+                    <div class="text-xs leading-none py-1 text-center text-white max-w-full" id="progress" style="background-color: #FF3333; width: 0%"></div>
+                  </div>
+            </div>
+            
+
+            <button class="text-white py-2 mt-4 inline-block w-full rounded" style="background-color: #B6B6B6;" type="submit" id="button">SUBMIT</button>
+        </div>
+
+
+        <script src="script.js"></script>
+    </body>
+</html>
