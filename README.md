@@ -279,3 +279,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Login Page. Blur effect on the background, Password length. 
 
 **Link to work:** [Login Page](https://twitter.com/GressierCosme1/status/1342565635151163392)
+
+
+### Day 32: December 26, 2020
+
+**Today's Progress:** I started to learn TypeScript on Academind youtube channel.
+
+**Link to work:** [Login Page](https://twitter.com/GressierCosme1/status/1342565635151163392)

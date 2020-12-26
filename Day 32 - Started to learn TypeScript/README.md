@@ -1,0 +1,1 @@
+[TypeScript Course](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=544s&ab_channel=Academind)
