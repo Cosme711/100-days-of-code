@@ -294,4 +294,4 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Thoughts:** Go do lots of challenges on Frontend Mentor.
 
-**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)[Timer Challenge](https://twitter.com/TheJamesLusk/status/1343312747803652096)
+**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)  [Timer Challenge](https://twitter.com/TheJamesLusk/status/1343312747803652096)
