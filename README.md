@@ -290,8 +290,8 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 ### Day 33: December 26, 2020
 
-**Today's Progress:** Ending of Weather App challenge. Added ° C to ° F switching functionality. Redirect page not found on vue-router.
+**Today's Progress:** Ending of Weather App challenge. Added switching °C to °F functionality. Redirect page not found on vue-router.
 
 **Thoughts:** Go do lots of challenges on Frontend Mentor.
 
-**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)  [Timer Challenge](https://twitter.com/TheJamesLusk/status/1343312747803652096)
+**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
