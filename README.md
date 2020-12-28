@@ -288,7 +288,7 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Link to work:** [Login Page](https://twitter.com/GressierCosme1/status/1342565635151163392)
 
 
-### Day 33: December 26, 2020
+### Day 33: December 27, 2020
 
 **Today's Progress:** Ending of Weather App challenge. Added switching °C to °F functionality. Redirect page not found on vue-router.
 
@@ -297,7 +297,7 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
 
 
-### Day 34: December 27, 2020
+### Day 34: December 28, 2020
 
 **Today's Progress:** Improvement (again) of the WeatherApp. I added the error page and the vuex-persisted package. I cleaned up and improved small details of the code. 
 
