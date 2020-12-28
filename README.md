@@ -295,3 +295,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** Go do lots of challenges on Frontend Mentor.
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
+
+
+### Day 34: December 27, 2020
+
+**Today's Progress:** Improvement (again) of the WeatherApp. I added the error page and the vuex-persisted package. I cleaned up and improved small details of the code. 
+
+**Thoughts:** There is always something to optimized
+
+**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
