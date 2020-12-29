@@ -304,3 +304,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** There is always something to optimized
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
+
+
+### Day 35: December 29, 2020
+
+**Today's Progress:** I tested Vite on Vuejs. I have converted my Weather App originally built with Vue CLI.
+
+**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
