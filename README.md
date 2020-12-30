@@ -311,3 +311,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I tested Vite on Vuejs. I have converted my Weather App originally built with Vue CLI.
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
+
+
+### Day 36: December 30, 2020
+
+**Today's Progress:** I started the Scaling Vue with Nuxt.js courses on Vue Mastery 
+
+**Link to work:** [Scaling Vue with Nuxt.js](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxts)
