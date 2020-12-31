@@ -133,7 +133,7 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Today's Progress:**  I revised the basics of Vue3. I tried to reproduce the 10FastFingers game
 
-**Thoughts:** Vue3 is the future ;) 
+**Link to work:** [Vue3 basics](https://www.youtube.com/watch?v=ZqgiuPt5QZo&t=384s&ab_channel=TheEarthisSquare)
 
 
 ### Day 15: December 9, 2020
