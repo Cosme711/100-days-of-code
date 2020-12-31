@@ -31,7 +31,7 @@
 
 ### Day 3: November 27, 2020
 
-**Today's Progress:** Created a Todo app in Vuetify. Improve the Chat app. 
+**Today's Progress:** Created a Todo app in Vuetify. Improvement of the Chat app. 
 
 **Thoughts:** Vuetify does not work with Vue3.
 
