@@ -174,7 +174,7 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Today's Progress:**  I started the Weather App challenge on DevChallenges. I improved my skills on Vue3, vue-router, Tailwind and more generally on how communicate with this API. 
 
-**Thoughts:** Having a clean code is very, very important ;) 
+**Thoughts:** Clean code is very, very important ;) 
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
 
