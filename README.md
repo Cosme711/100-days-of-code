@@ -228,7 +228,7 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Today's Progress:** I tried a lot of new css animation with the package npm animate.css. I coded the search functionality on the Weather app
 
-**Thoughts:** Deep work is key of website success
+**Thoughts:** Deep work is key of web developer success
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
 
