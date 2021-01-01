@@ -325,3 +325,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Optimization and review of all my old code
 
 **Link to work:** [Review](https://twitter.com/GressierCosme1/status/1344692352280104960)
+
+
+### Day 38: January 1, 2021
+
+**Today's Progress:** Still learning Nuxt.js
+
+**Link to work:** [Scaling Vue with Nuxt.js](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxts)
