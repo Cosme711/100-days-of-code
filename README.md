@@ -332,3 +332,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Still learning Nuxt.js
 
 **Link to work:** [Scaling Vue with Nuxt.js](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxts)
+
+
+### Day 39: January 2, 2021
+
+**Today's Progress:** I created the mood board for my creative portfolio. 
+
+**Thoughts:** I want to create a retro 90's design with retrowave influences.
+
+**Link to work:** [Mood board](https://twitter.com/GressierCosme1/status/1345468018143453187)
