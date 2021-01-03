@@ -341,3 +341,8 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** I want to create a retro 90's design with retrowave influences.
 
 **Link to work:** [Mood board](https://twitter.com/GressierCosme1/status/1345468018143453187)
+
+
+### Day 40: January 3, 2021
+
+**Today's Progress:** I continued the templates of my portfolio on Adobe XD. I also did some animation tests.
