@@ -346,3 +346,12 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 ### Day 40: January 3, 2021
 
 **Today's Progress:** I continued the templates of my portfolio on Adobe XD. I also did some animation tests.
+
+
+### Day 41: January 4, 2021
+
+**Today's Progress:** Nuxtjs. Seo with vue-meta, universal mode, smart prefechting.
+
+**Thoughts:** Managing dependencies with Nuxt is just awesome.
+
+**Link to work:** [Nuxtjs](https://twitter.com/GressierCosme1/status/1346190360364675074)
