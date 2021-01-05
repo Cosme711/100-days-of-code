@@ -355,3 +355,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Thoughts:** Managing dependencies with Nuxt is just awesome.
 
 **Link to work:** [Nuxtjs](https://twitter.com/GressierCosme1/status/1346190360364675074)
+
+
+### Day 42: January 5, 2021
+
+**Today's Progress:** Nuxtjs ! Learning about: Universal mode, SEO with vue-meta, file based Routing, fetch & asyncData, progress bar, vuex, Universal Mode Deployment & Static Generated Deployment. 
+
+**Link to work:** [Nuxt Real World Events](https://cosme-gressier-nuxt-event.netlify.app/)
