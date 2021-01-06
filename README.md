@@ -362,3 +362,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Nuxtjs ! Learning about: Universal mode, SEO with vue-meta, file based Routing, fetch & asyncData, progress bar, vuex, Universal Mode Deployment & Static Generated Deployment. 
 
 **Link to work:** [Nuxt Real World Events](https://cosme-gressier-nuxt-event.netlify.app/)
+
+
+### Day 43: January 6, 2021
+
+**Today's Progress:** I updated my Weather App to Nuxt. I have improved the function which retrieves data from the API. I also improve the error page.
+
+**Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
