@@ -369,3 +369,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I updated my Weather App to Nuxt. I have improved the function which retrieves data from the API. I also improve the error page.
 
 **Link to work:** [Weather App](https://cosme-gressier-weather-app.netlify.app/)
+
+
+### Day 44: January 7, 2021
+
+**Today's Progress:** Deploying of my api on AWS with Strapi. Build with PostgreSQL.
+
+**Link to work:** [First Online Api](https://twitter.com/GressierCosme1/status/1347279375419531264)
