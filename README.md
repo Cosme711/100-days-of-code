@@ -376,3 +376,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Deploying of my api on AWS with Strapi. Build with PostgreSQL.
 
 **Link to work:** [First Online Api](https://twitter.com/GressierCosme1/status/1347279375419531264)
+
+
+### Day 45: January 8, 2021
+
+**Today's Progress:** Still building my API. I fill my API with data and i have configured roles and permissions
+
+**Link to work:** [Still Building Api](https://twitter.com/GressierCosme1/status/1347650288237293575)
