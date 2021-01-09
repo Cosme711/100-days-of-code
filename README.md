@@ -383,3 +383,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Still building my API. I fill my API with data and i have configured roles and permissions
 
 **Link to work:** [Still Building Api](https://twitter.com/GressierCosme1/status/1347650288237293575)
+
+
+### Day 46: January 9, 2021
+
+**Today's Progress:** Start learning Unit Testing, Course on Vue Mastery "Unit Testing"
+
+**Link to work:** [Unit Testing on Vue Mastery](https://www.vuemastery.com/courses/unit-testing/what-to-test/)
