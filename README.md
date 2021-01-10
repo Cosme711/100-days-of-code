@@ -390,3 +390,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Start learning Unit Testing, Course on Vue Mastery "Unit Testing"
 
 **Link to work:** [Unit Testing on Vue Mastery](https://www.vuemastery.com/courses/unit-testing/what-to-test/)
+
+
+### Day 47: January 10, 2021
+
+**Today's Progress:** Still learning Strapi, i learned about Custom queries, Knex Query Builder, Webhooks. 
+
+**Link to work:** [Queries on Strapi](https://strapi.io/documentation/developer-docs/latest/concepts/queries.html)

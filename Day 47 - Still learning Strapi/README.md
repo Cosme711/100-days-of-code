@@ -1,0 +1,1 @@
+[Queries on Strapi](https://strapi.io/documentation/developer-docs/latest/concepts/queries.html)
