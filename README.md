@@ -397,3 +397,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Still learning Strapi, i learned about Custom queries, Knex Query Builder, Webhooks. 
 
 **Link to work:** [Queries on Strapi](https://strapi.io/documentation/developer-docs/latest/concepts/queries.html)
+
+
+### Day 48: January 11, 2021
+
+**Today's Progress:** I started an awwward course : Creative Portfolios: A powerful visual language for brands.  
+
+**Link to work:** [Awwwards course](https://www.awwwards.com/academy/course/creative-portfolios-a-powerful-visual-language-for-brands-online-course)
