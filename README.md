@@ -404,3 +404,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I started an awwward course : Creative Portfolios: A powerful visual language for brands.  
 
 **Link to work:** [Awwwards course](https://www.awwwards.com/academy/course/creative-portfolios-a-powerful-visual-language-for-brands-online-course)
+
+
+### Day 49: January 12, 2021
+
+**Today's Progress:** Portfolio in progress. Design of the different components, choice of fonts, creating a parralax effect & configure hosting and deployment on Heroku
+
+**Link to work:** [Portfolio in progress...](https://twitter.com/GressierCosme1/status/1349120277884637190)
