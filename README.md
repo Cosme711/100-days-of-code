@@ -411,3 +411,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Portfolio in progress. Design of the different components, choice of fonts, creating a parralax effect & configure hosting and deployment on Heroku
 
 **Link to work:** [Portfolio in progress...](https://twitter.com/GressierCosme1/status/1349120277884637190)
+
+
+### Day 50: January 13, 2021
+
+**Today's Progress:** Still creating my portfolio : Design, responsive, server migration.
+
+**Link to work:** [Still Creating my Portfolio](https://twitter.com/GressierCosme1/status/1349486817138110464)
