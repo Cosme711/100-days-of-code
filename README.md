@@ -418,3 +418,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Still creating my portfolio : Design, responsive, server migration.
 
 **Link to work:** [Still Creating my Portfolio](https://twitter.com/GressierCosme1/status/1349486817138110464)
+
+
+### Day 51: January 14, 2021
+
+**Today's Progress:** I created the Vuex store of my application, i set up the main API requests.
+
+**Link to work:** [Vuex](https://vuex.vuejs.org/)
