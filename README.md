@@ -425,3 +425,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I created the Vuex store of my application, i set up the main API requests.
 
 **Link to work:** [Vuex](https://vuex.vuejs.org/)
+
+
+### Day 52: January 15, 2021
+
+**Today's Progress:** Discovering and using of matchMedia. Media queries in JavaScript conditions & addEventListener of screen resize.
+
+**Link to work:** [matchMedia](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia)
