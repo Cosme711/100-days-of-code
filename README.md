@@ -432,3 +432,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Discovering and using of matchMedia. Media queries in JavaScript conditions & addEventListener of screen resize.
 
 **Link to work:** [matchMedia](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia)
+
+
+### Day 53: January 16, 2021
+
+**Today's Progress:** TypeScript in Vue3.
+
+**Link to work:** [TypeScript Courses](https://www.youtube.com/watch?v=V9MmoBAezD8&t=2s&ab&ab_channel=ProgramWithErik)
