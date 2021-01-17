@@ -439,3 +439,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** TypeScript in Vue3.
 
 **Link to work:** [TypeScript Courses](https://www.youtube.com/watch?v=V9MmoBAezD8&t=2s&ab&ab_channel=ProgramWithErik)
+
+
+### Day 54: January 17, 2021
+
+**Today's Progress:** Design of header and footer. Improved responsive design on the model 
+
+**Link to work:** [Responsive](https://twitter.com/GressierCosme1/status/1350936412581933057)
