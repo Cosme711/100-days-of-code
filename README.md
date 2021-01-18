@@ -446,3 +446,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Design of header and footer. Improved responsive design on the model 
 
 **Link to work:** [Responsive](https://twitter.com/GressierCosme1/status/1350936412581933057)
+
+
+### Day 55: January 18, 2021
+
+**Today's Progress:** Unit testing and store in Vuex. Improvement of the model on Sketch
+
+**Link to work:** [Unit Testing](https://twitter.com/GressierCosme1/status/1351277835051298820)
