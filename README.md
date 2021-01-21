@@ -467,3 +467,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Last improvement before tomorrow's deadline. Bug correction, optimization on different browsers.
 
 **Link to work:** [Latest improvements](https://twitter.com/GressierCosme1/status/1352003374493872134)
+
+
+### Day 58: January 21, 2021
+
+**Today's Progress:** Implementation of google analytics with @nuxtjs/google-analytics
+
+**Link to work:** [@nuxtjs/google-analytics](https://google-analytics.nuxtjs.org/)

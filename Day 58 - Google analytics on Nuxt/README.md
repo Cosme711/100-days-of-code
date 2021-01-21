@@ -1,0 +1,1 @@
+[@nuxtjs/google-analytics](https://google-analytics.nuxtjs.org/)
