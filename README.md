@@ -474,3 +474,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Implementation of google analytics with @nuxtjs/google-analytics
 
 **Link to work:** [@nuxtjs/google-analytics](https://google-analytics.nuxtjs.org/)
+
+
+### Day 59: January 22, 2021
+
+**Today's Progress:** Design inspiration. I reproduced animations and started a new project.
+
+**Link to work:** [Design inspiration](https://twitter.com/GressierCosme1/status/1352753856296452099)
