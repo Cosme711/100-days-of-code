@@ -481,3 +481,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Design inspiration. I reproduced animations and started a new project.
 
 **Link to work:** [Design inspiration](https://twitter.com/GressierCosme1/status/1352753856296452099)
+
+
+### Day 60: January 23, 2021
+
+**Today's Progress:** I started the portfolio challenge on Devchallenges and created a small API to make this portfolio dynamic. 
+
+**Link to work:** [CV Online](https://cosme-gressier-cv.netlify.app)
