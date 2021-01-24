@@ -488,3 +488,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I started the portfolio challenge on Devchallenges and created a small API to make this portfolio dynamic. 
 
 **Link to work:** [CV Online](https://cosme-gressier-cv.netlify.app)
+
+
+### Day 61: January 24, 2021
+
+**Today's Progress:** I created loading animations and text reveal with Vue and Tailwindcss.
+
+**Link to work:** [Loading Animation](https://twitter.com/GressierCosme1/status/1353468668471078915)
