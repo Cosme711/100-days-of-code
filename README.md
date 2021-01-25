@@ -495,3 +495,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I created loading animations and text reveal with Vue and Tailwindcss.
 
 **Link to work:** [Loading Animation](https://twitter.com/GressierCosme1/status/1353468668471078915)
+
+
+### Day 62: January 25, 2021
+
+**Today's Progress:** Creation of an audio player with Howler.js
+
+**Link to work:** [Howler.js](https://howlerjs.com)
