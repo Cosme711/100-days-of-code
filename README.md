@@ -502,3 +502,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Creation of an audio player with Howler.js
 
 **Link to work:** [Howler.js](https://howlerjs.com)
+
+
+### Day 63: January 26, 2021
+
+**Today's Progress:** Creation of and Animated Counter in Javascript
+
+**Link to work:** [Animated Counter](https://twitter.com/GressierCosme1/status/1354172519541055488)
