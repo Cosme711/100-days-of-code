@@ -509,3 +509,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Creation of and Animated Counter in Javascript
 
 **Link to work:** [Animated Counter](https://twitter.com/GressierCosme1/status/1354172519541055488)
+
+
+### Day 64: January 27, 2021
+
+**Today's Progress:** First installation of Linux in a virtual machine. Software installation, navigation and command line.
+
+**Link to work:** [Linux](https://twitter.com/GressierCosme1/status/1354554338006470658)
