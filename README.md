@@ -516,3 +516,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** First installation of Linux in a virtual machine. Software installation, navigation and command line.
 
 **Link to work:** [Linux](https://twitter.com/GressierCosme1/status/1354554338006470658)
+
+
+### Day 65: January 28, 2021
+
+**Today's Progress:** Creation of the responsive in CV Online. Built with grid on Tailwindcss.
+
+**Link to work:** [CV Online](https://cosme-gressier-cv.netlify.app)
