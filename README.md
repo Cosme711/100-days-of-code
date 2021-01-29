@@ -487,7 +487,7 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Today's Progress:** I started the portfolio challenge on Devchallenges and created a small API to make this portfolio dynamic. 
 
-**Link to work:** [CV Online](https://cosme-gressier-cv.netlify.app)
+**Link to work:** [CV Online](https://www.cosme-gressier.com)
 
 
 ### Day 61: January 24, 2021
@@ -522,4 +522,11 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 **Today's Progress:** Creation of the responsive in CV Online. Built with grid on Tailwindcss.
 
-**Link to work:** [CV Online](https://cosme-gressier-cv.netlify.app)
+**Link to work:** [CV Online](https://www.cosme-gressier.com)
+
+
+### Day 66: January 29, 2021
+
+**Today's Progress:** Uploading and configuring the domain name of my portfolio. 
+
+**Link to work:** [CV Online](https://www.cosme-gressier.com)
