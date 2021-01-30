@@ -530,3 +530,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Uploading and configuring the domain name of my portfolio. 
 
 **Link to work:** [CV Online](https://www.cosme-gressier.com)
+
+
+### Day 67: January 30, 2021
+
+**Today's Progress:** I tried to reproduce an example found in the Three.js docs : Camera Cinetic
+
+**Link to work:** [Three.js](https://threejs.org/examples/#webgl_camera_cinematic)
