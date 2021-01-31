@@ -537,3 +537,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I tried to reproduce an example found in the Three.js docs : Camera Cinetic
 
 **Link to work:** [Three.js](https://threejs.org/examples/#webgl_camera_cinematic)
+
+
+### Day 68: January 31, 2021
+
+**Today's Progress:** Still learning Three.js
+
+**Link to work:** [Course](https://davidlyons.dev/threejs-intro/#slide-0)
