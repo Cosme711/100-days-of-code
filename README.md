@@ -544,3 +544,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Still learning Three.js
 
 **Link to work:** [Course](https://davidlyons.dev/threejs-intro/#slide-0)
+
+
+### Day 69: February 1, 2021
+
+**Today's Progress:** SEO optimization on my portfolio. Creation and configuration of a Sitemap with the @nuxtjs/sitemap package.
+
+**Link to work:** [@nuxtjs/sitemap](https://www.npmjs.com/package/@nuxtjs/sitemap)

@@ -1,0 +1,1 @@
+[@nuxtjs/sitemap](https://www.npmjs.com/package/@nuxtjs/sitemap)
