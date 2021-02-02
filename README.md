@@ -551,3 +551,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** SEO optimization on my portfolio. Creation and configuration of a Sitemap with the @nuxtjs/sitemap package.
 
 **Link to work:** [@nuxtjs/sitemap](https://www.npmjs.com/package/@nuxtjs/sitemap)
+
+
+### Day 70: February 2, 2021
+
+**Today's Progress:** I started The ultimate Three.js course on Three.js Journey. 
+
+**Link to work:** [Three.js Journey](https://threejs-journey.xyz)
