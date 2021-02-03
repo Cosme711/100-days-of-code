@@ -558,3 +558,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I started The ultimate Three.js course on Three.js Journey. 
 
 **Link to work:** [Three.js Journey](https://threejs-journey.xyz)
+
+
+### Day 71: February 3, 2021
+
+**Today's Progress:** Still learning Three.js, LightProbe, camera & creating object on Rhino 3D 
+
+**Link to work:** [Three.js](https://threejs-journey.xyz)
