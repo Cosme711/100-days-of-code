@@ -565,3 +565,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Still learning Three.js, LightProbe, camera & creating object on Rhino 3D 
 
 **Link to work:** [Three.js](https://threejs-journey.xyz)
+
+
+### Day 72: February 4, 2021
+
+**Today's Progress:** Three.js journey, requestAnimationFrame, PerspectiveCamera & OrbitControls.
+
+**Link to work:** [Three.js](https://threejs-journey.xyz)
