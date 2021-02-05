@@ -572,3 +572,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Three.js journey, requestAnimationFrame, PerspectiveCamera & OrbitControls.
 
 **Link to work:** [Three.js](https://threejs-journey.xyz)
+
+
+### Day 73: February 5, 2021
+
+**Today's Progress:** Three.js journey, vertices, BufferGeometry & Float32Array
+
+**Link to work:** [Three.js](https://threejs-journey.xyz)
