@@ -579,3 +579,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Three.js journey, vertices, BufferGeometry & Float32Array
 
 **Link to work:** [Three.js](https://threejs-journey.xyz)
+
+
+### Day 74: February 6, 2021
+
+**Today's Progress:** Three.js journey. I optimized texture performance. I learned to use the loading manager, UV unwrapping & filtering and mipmapping 
+
+**Link to work:** [Three.js](https://threejs-journey.xyz)
