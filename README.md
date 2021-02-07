@@ -586,3 +586,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Three.js journey. I optimized texture performance. I learned to use the loading manager, UV unwrapping & filtering and mipmapping 
 
 **Link to work:** [Three.js](https://threejs-journey.xyz)
+
+
+### Day 75: February 7, 2021
+
+**Today's Progress:** Three.js journey : Different Mesh Material. Debug UI. Environment Maps. MatCap Material. Optimizing performance
+
+**Link to work:** [Three.js](https://threejs-journey.xyz)
