@@ -600,3 +600,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Three.js journey : Different type of light. Light Helper. Shadows. Render size. Baking shadows. I also did the haunted house exercise to practice everything i learned.
 
 **Link to work:** [Three.js](https://threejs-journey.xyz)
+
+
+### Day 76: February 8, 2021
+
+**Today's Progress:** Three.js journey : I learned how to generate particles and created a galaxy generator.
+
+**Link to work:** [Three.js](https://threejs-journey.xyz)
