@@ -614,3 +614,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Optimization with the lighthouse dev tools. Three.js Journey : Raycaster.
 
 **Link to work:** [Three.js](https://threejs-journey.xyz)
+
+
+### Day 79: February 11, 2021
+
+**Today's Progress:** I started a new challenge on DevChallenges.io: Edie Homepage. 
+
+**Link to work:** [Edie Homepage Challenge](https://cosme-gressier-edie-homepage.netlify.app/)
