@@ -628,3 +628,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:**  Three.js Journey : Physics with the cannon.js, contact material & apply force 
 
 **Link to work:** [Three.js Journey](https://threejs-journey.xyz/)
+
+
+### Day 81: February 13, 2021
+
+**Today's Progress:**  Challenge Edie Homepage. Responsive, SEO & clean code. 
+
+**Link to work:** [Edie Homepage Challenge](https://cosme-gressier-edie-homepage.netlify.app/)
