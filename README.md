@@ -625,13 +625,20 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 
 ### Day 80: February 12, 2021
 
-**Today's Progress:**  Three.js Journey : Physics with the cannon.js, contact material & apply force 
+**Today's Progress:** Three.js Journey : Physics with the cannon.js, contact material & apply force 
 
 **Link to work:** [Three.js Journey](https://threejs-journey.xyz/)
 
 
 ### Day 81: February 13, 2021
 
-**Today's Progress:**  Challenge Edie Homepage. Responsive, SEO & clean code. 
+**Today's Progress:** Challenge Edie Homepage. Responsive, SEO & clean code. 
+
+**Link to work:** [Edie Homepage Challenge](https://cosme-gressier-edie-homepage.netlify.app/)
+
+
+### Day 82: February 14, 2021
+
+**Today's Progress:** I submitted a challenge on DevChallenges.io: Edie Homepage. The last challenge to have Responsive Web Developer certification 
 
 **Link to work:** [Edie Homepage Challenge](https://cosme-gressier-edie-homepage.netlify.app/)
