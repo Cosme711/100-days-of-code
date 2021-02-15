@@ -642,3 +642,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I submitted a challenge on DevChallenges.io: Edie Homepage. The last challenge to have Responsive Web Developer certification 
 
 **Link to work:** [Edie Homepage Challenge](https://cosme-gressier-edie-homepage.netlify.app/)
+
+
+### Day 83: February 15, 2021
+
+**Today's Progress:** I started the Github job clone challenge on DevChallenges.io
+
+**Link to work:** [Github Jobs Challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps)
