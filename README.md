@@ -649,3 +649,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I started the Github job clone challenge on DevChallenges.io
 
 **Link to work:** [Github Jobs Challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps)
+
+
+### Day 84: February 16, 2021
+
+**Today's Progress:** I created a draggable slider to display my projects in my portfolio. 
+
+**Link to work:** [Draggable slider](https://twitter.com/GressierCosme1/status/1361794829043314691)
