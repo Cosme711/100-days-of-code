@@ -1,0 +1,1 @@
+[Improved draggable slider](https://twitter.com/GressierCosme1/status/1362146110899433474)

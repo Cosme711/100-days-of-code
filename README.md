@@ -656,3 +656,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I created a draggable slider to display my projects in my portfolio. 
 
 **Link to work:** [Draggable slider](https://twitter.com/GressierCosme1/status/1361794829043314691)
+
+
+### Day 85: February 17, 2021
+
+**Today's Progress:** I have improved the draggable slider. I added an ease-out effect and improved the scroll effect. I also added navigation buttons
+
+**Link to work:** [Improved draggable slider](https://twitter.com/GressierCosme1/status/1362146110899433474)
