@@ -663,3 +663,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I have improved the draggable slider. I added an ease-out effect and improved the scroll effect. I also added navigation buttons
 
 **Link to work:** [Improved draggable slider](https://twitter.com/GressierCosme1/status/1362146110899433474)
+
+
+### Day 86: February 18, 2021
+
+**Today's Progress:** I have improved my skills on Figma. Creation and improvement of website prototype.
+
+**Link to work:** [Figma](https://twitter.com/GressierCosme1/status/1362507958639280135)
