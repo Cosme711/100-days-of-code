@@ -670,3 +670,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I have improved my skills on Figma. Creation and improvement of website prototype.
 
 **Link to work:** [Figma](https://twitter.com/GressierCosme1/status/1362507958639280135)
+
+
+### Day 87: February 19, 2021
+
+**Today's Progress:** Figma training. I continued the mockup for my new portfolio and created a new logo
+
+**Link to work:** [Figma](https://twitter.com/GressierCosme1/status/1362859079140532224)
