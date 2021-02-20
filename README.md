@@ -677,3 +677,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Figma training. I continued the mockup for my new portfolio and created a new logo
 
 **Link to work:** [Figma](https://twitter.com/GressierCosme1/status/1362859079140532224)
+
+
+### Day 88: February 20, 2021
+
+**Today's Progress:** I improved the draggable slider by adding an infinite scroll. I also continued the course on Three.js Journey
+
+**Link to work:** [Infinite scroll on draggable slider](https://twitter.com/GressierCosme1/status/1363229229010325505)
