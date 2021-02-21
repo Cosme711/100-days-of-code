@@ -684,3 +684,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I improved the draggable slider by adding an infinite scroll. I also continued the course on Three.js Journey
 
 **Link to work:** [Infinite scroll on draggable slider](https://twitter.com/GressierCosme1/status/1363229229010325505)
+
+
+### Day 89: February 21, 2021
+
+**Today's Progress:** I have improved the model of my portfolio. I added the skills and competences part
+
+**Link to work:** [Figma](https://twitter.com/GressierCosme1/status/1363593146333073410)
