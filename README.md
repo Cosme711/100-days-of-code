@@ -691,3 +691,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** I have improved the model of my portfolio. I added the skills and competences part
 
 **Link to work:** [Figma](https://twitter.com/GressierCosme1/status/1363593146333073410)
+
+
+### Day 90: February 22, 2021
+
+**Today's Progress:** Three.js Journey : Imported models & custom model with Blender lessons
+
+**Link to work:** [Three.js Journey](https://twitter.com/GressierCosme1/status/1363964675042476043)
