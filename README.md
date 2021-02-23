@@ -698,3 +698,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Three.js Journey : Imported models & custom model with Blender lessons
 
 **Link to work:** [Three.js Journey](https://twitter.com/GressierCosme1/status/1363964675042476043)
+
+
+### Day 91: February 23, 2021
+
+**Today's Progress:** Three.js Journey : Realistic render, shaders & raging sea lessons.
+
+**Link to work:** [Three.js Journey](https://threejs-journey.xyz/)
