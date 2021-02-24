@@ -705,3 +705,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Three.js Journey : Realistic render, shaders & raging sea lessons.
 
 **Link to work:** [Three.js Journey](https://threejs-journey.xyz/)
+
+
+### Day 92: February 24, 2021
+
+**Today's Progress:** Last modification on the model of my new portfolio. Creation of different components
+
+**Link to work:** [New portfolio](https://twitter.com/GressierCosme1/status/1364681821359857664)
