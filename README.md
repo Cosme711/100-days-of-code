@@ -712,3 +712,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Last modification on the model of my new portfolio. Creation of different components
 
 **Link to work:** [New portfolio](https://twitter.com/GressierCosme1/status/1364681821359857664)
+
+
+### Day 93: February 25, 2021
+
+**Today's Progress:** Coding of my portfolio with Vuejs, Nuxt & Tailwindcss. Improvement of the API and optimization of the model
+
+**Link to work:** [Coding of my portfolio](https://twitter.com/GressierCosme1/status/1365068899037941768)
