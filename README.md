@@ -719,3 +719,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Coding of my portfolio with Vuejs, Nuxt & Tailwindcss. Improvement of the API and optimization of the model
 
 **Link to work:** [Coding of my portfolio](https://twitter.com/GressierCosme1/status/1365068899037941768)
+
+
+### Day 94: February 26, 2021
+
+**Today's Progress:** Optimization of the code and performance of my portfolio. Google lighthouse, optimization of the API and images with srcset, improvement of the response, addition of a register service worker and configuration of the https protocol
+
+**Link to work:** [Optimization](https://twitter.com/GressierCosme1/status/1365416439478419458)
