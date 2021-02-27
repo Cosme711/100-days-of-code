@@ -726,3 +726,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Optimization of the code and performance of my portfolio. Google lighthouse, optimization of the API and images with srcset, improvement of the response, addition of a register service worker and configuration of the https protocol
 
 **Link to work:** [Optimization](https://twitter.com/GressierCosme1/status/1365416439478419458)
+
+
+### Day 95: February 27, 2021
+
+**Today's Progress:** Three.js Journey : Shaders & shader patterns lesson.
+
+**Link to work:** [Three.js Journey](https://threejs-journey.xyz/)
