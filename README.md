@@ -733,3 +733,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Three.js Journey : Shaders & shader patterns lesson.
 
 **Link to work:** [Three.js Journey](https://threejs-journey.xyz/)
+
+
+### Day 96: February 28, 2021
+
+**Today's Progress:** Improvements to old projects. Improvement of my portfolio, old website & API.
+
+**Link to work:** [Old projects](https://twitter.com/GressierCosme1/status/1366146706350485506)
