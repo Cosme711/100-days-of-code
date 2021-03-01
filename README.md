@@ -740,3 +740,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Improvements to old projects. Improvement of my portfolio, old website & API.
 
 **Link to work:** [Old projects](https://twitter.com/GressierCosme1/status/1366146706350485506)
+
+
+### Day 97: March 1, 2021
+
+**Today's Progress:** Implementation of google analytics on my portfolio. Improved hosting and domain name on Netlify.
+
+**Link to work:** [Google analytics](https://twitter.com/GressierCosme1/status/1366506040653709312)
