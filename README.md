@@ -754,3 +754,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Three.js Journey : Post processing & perfomance tips lessons.
 
 **Link to work:** [Three.js Journey](https://threejs-journey.xyz/)
+
+
+### Day 99: March 3, 2021
+
+**Today's Progress:** Improvement of old project. Update with my current skills : Vue.js, Nuxt.js, Javascript.
+
+**Link to work:** [Improvement of old project](https://twitter.com/GressierCosme1/status/1367210084665851911)
