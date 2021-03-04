@@ -761,3 +761,10 @@ I progressed on axios, get data from an API etc... I also progressed on Vuetify.
 **Today's Progress:** Improvement of old project. Update with my current skills : Vue.js, Nuxt.js, Javascript.
 
 **Link to work:** [Improvement of old project](https://twitter.com/GressierCosme1/status/1367210084665851911)
+
+
+### Day 100: March 4, 2021
+
+**Today's Progress:** End of the challenge! What I have done : 2 Portfolio, 3 Website, 8 Challenge, learned Nuxt, Three.js, Strapi, Tailwindcss & Figma, a lots of practice.
+
+**Link to work:** [End of the challenge](https://twitter.com/GressierCosme1/status/1367496757513486348)
